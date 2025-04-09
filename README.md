@@ -36,20 +36,14 @@ This is a command-line-based **Task Scheduler** that helps you manage tasks base
 git clone https://github.com/your-username/task-scheduler-python.git
 cd task-scheduler-python
 Run the Program
-bash
-Copy
-Edit
 python task_scheduler.py
 📁 File Structure
-bash
-Copy
-Edit
+
 task_scheduler.py      # Main script with Task and TaskScheduler classes
 tasks.txt              # Stores your tasks persistently
 📌 Sample Task Entry Format (in tasks.txt)
 yaml
-Copy
-Edit
+
 1, Learn DSA, 1, 2025-04-10
 2, Do Homework, 3, 2025-04-15
 🧠 Educational Use
