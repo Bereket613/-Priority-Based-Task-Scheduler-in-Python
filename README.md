@@ -7,6 +7,8 @@ This is a command-line-based **Task Scheduler** that helps you manage tasks base
 ---
 
 ![image](https://github.com/user-attachments/assets/50436b77-6dd1-4b4e-8471-05b56eb2a1ad)
+![image](https://github.com/user-attachments/assets/a3c1ed10-0fa2-4278-ad97-b2f3c63a74ad)
+
 
 
 ## ✨ Features
@@ -49,7 +51,6 @@ yaml
 
 1, Learn DSA, 1, 2025-04-10
 2, Do Homework, 3, 2025-04-15
-![image](https://github.com/user-attachments/assets/a3c1ed10-0fa2-4278-ad97-b2f3c63a74ad)
 
 🧠 Educational Use
 This project is perfect for:
